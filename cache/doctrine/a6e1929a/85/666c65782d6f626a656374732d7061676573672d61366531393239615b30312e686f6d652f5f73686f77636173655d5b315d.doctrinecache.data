@@ -1,0 +1,11 @@
+1617003204
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:14:"home/_showcase";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:8:"Erős IT";s:14:"showcase_image";s:18:"hero-image (2).png";s:7:"buttons";a:2:{i:0;a:3:{s:4:"text";s:16:"Szolgáltatások";s:3:"url";s:1:"#";s:5:"class";s:27:"button trial animated shake";}i:1;a:3:{s:4:"text";s:9:"Kapcsolat";s:3:"url";s:1:"#";s:5:"class";s:30:"button learn-more smoothscroll";}}}s:11:"frontmatter";s:225:"title: Erős IT
+showcase_image: hero-image (2).png
+buttons:
+    - text: Szolgáltatások
+      url: '#'
+      class: button trial animated shake
+    - text: Kapcsolat
+      url: '#'
+      class: button learn-more smoothscroll";s:8:"markdown";s:110:"Számítógépek, laptopok javítása, IT szolgáltatások kiszállással Esztergom és Budapest területén.
+";}s:7:"storage";a:6:{s:3:"key";s:14:"home/_showcase";s:11:"storage_key";s:17:"01.home/_showcase";s:8:"template";s:8:"showcase";s:17:"storage_timestamp";i:1617002506;s:8:"markdown";a:1:{s:0:"";a:1:{s:8:"showcase";i:1617002506;}}s:8:"checksum";s:32:"ba2b74cc566ab5796916ed55250703f4";}}

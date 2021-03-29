@@ -1,0 +1,10 @@
+1617002001
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:14:"home/_showcase";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:66:"The perfect template to showcase your awesome product and service.";s:14:"showcase_image";s:14:"hero-image.png";s:7:"buttons";a:2:{i:0;a:3:{s:4:"text";s:10:"Free Trial";s:3:"url";s:1:"#";s:5:"class";s:27:"button trial animated shake";}i:1;a:3:{s:4:"text";s:10:"Learn More";s:3:"url";s:1:"#";s:5:"class";s:30:"button learn-more smoothscroll";}}}s:11:"frontmatter";s:274:"title: The perfect template to showcase your awesome product and service.
+showcase_image: hero-image.png
+buttons:
+    - text: Free Trial
+      url: '#'
+      class: button trial animated shake
+    - text: Learn More
+      url: '#'
+      class: button learn-more smoothscroll";s:8:"markdown";s:226:"Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. Quis nostrum exercitationem ullam corporis suscipit laboriosam.";}s:7:"storage";a:6:{s:3:"key";s:14:"home/_showcase";s:11:"storage_key";s:17:"01.home/_showcase";s:8:"template";s:8:"showcase";s:17:"storage_timestamp";i:1616189112;s:8:"markdown";a:1:{s:0:"";a:1:{s:8:"showcase";i:1616189112;}}s:8:"checksum";s:32:"7987ad3b42bea036f876c1a7fc3036a0";}}

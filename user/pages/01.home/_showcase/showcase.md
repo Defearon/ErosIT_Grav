@@ -1,13 +1,13 @@
 ---
-title: The perfect template to showcase your awesome product and service.
-showcase_image: hero-image.png
+title: Erős IT
+showcase_image: hero-image (2).png
 buttons:
-    - text: Free Trial
+    - text: Szolgáltatások
       url: '#'
       class: button trial animated shake
-    - text: Learn More
+    - text: Kapcsolat
       url: '#'
       class: button learn-more smoothscroll
 ---
 
-Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. Quis nostrum exercitationem ullam corporis suscipit laboriosam.
+Számítógépek, laptopok javítása, IT szolgáltatások kiszállással Esztergom és Budapest területén.
