@@ -1,5 +1,5 @@
 ---
-title: Webfejlesztés
+title: Webfejlesztés / Programozás
 ---
 
 #Webfejlesztés // Programozás

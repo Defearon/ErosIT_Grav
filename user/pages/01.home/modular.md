@@ -1,6 +1,6 @@
 ---
-title: Woo
-menu: Home
+title: Főoldal
+menu: Főoldal
 onpage_menu: true
 body_class: index
 header_class: alt
@@ -11,12 +11,7 @@ content:
         dir: asc
         custom:
             - _showcase
-            - _features
-            - _pricing
-            - _callout
-            - _screenshots
-            - _testimonials
-            - _subscribe
+            - _szolgaltatasok
+            - _arak
+            - _kiszallas
 ---
-
-

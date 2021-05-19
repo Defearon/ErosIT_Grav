@@ -1,6 +1,5 @@
 ---
 title: Erős IT
-showcase_image: hero-image (2).png
 buttons:
     - text: Szolgáltatások
       url: '#'
@@ -11,3 +10,4 @@ buttons:
 ---
 
 Számítógépek, laptopok javítása, IT szolgáltatások kiszállással Esztergom és Budapest területén.
+![my image](logo.png)
