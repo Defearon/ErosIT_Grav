@@ -3,16 +3,12 @@ title: Árak
 menu: Árak
 login: {  }
 ---
-
-<!---
----
+<!--
 columns:
-  - title: Starter
-    price1: Free
-    price2: per month
+  - title: Hardveres szervíz
     icon: cog
     features:
-      - name: 1GB Storage
+      - name: Router (vagy modem) bekötés, beállítás és konfigurálás || 8.000Ft
       - name: 5GB Bandwidth
       - name: 2 Domains
       - name: 3 Databases
@@ -21,9 +17,8 @@ columns:
     buttons:
       - text: Sign Up
         url: "#"
-  - title: Standard
-    price1: $9.99
-    price2: per month
+
+  - title: Szoftveres szervíz
     icon: thumbs-up
     features:
       - name: 3GB Storage
@@ -32,12 +27,8 @@ columns:
       - name: 5 Databases
       - name: 3 FTP Account
       - name: 30 Email Accounts
-    buttons:
-      - text: Sign Up
-        url: "#"
-  - title: Premium
-    price1: $19.99
-    price2: per month
+
+  - title: Hálózat szerelés/bővítés, internet javítás
     icon: star
     features:
       - name: 10GB Storage
@@ -46,12 +37,8 @@ columns:
       - name: 10 Databases
       - name: 10 FTP Account
       - name: 50 Email Accounts
-    buttons:
-      - text: Sign Up
-        url: "#"
-  - title: Ultimate
-    price1: $29.99
-    price2: per month
+
+  - title: Webfejlesztés / Programozás
     icon: trophy
     features:
       - name: 30GB Storage
@@ -62,9 +49,9 @@ columns:
       - name: 50 Email Accounts
     buttons:
       - text: Sign Up
-        url: "#"               
+        url: "#"        
 ---
 -->
-
 #Áraink.
-Fejlesztés alatt.
+
+[pdf url="/doc/arlista.pdf" width="100%" height="500"/]

@@ -473,7 +473,6 @@ dd { margin: 0 0 0 20px; }
 
 img,
 video,
-iframe,
 embed,
 object {
    max-width: 100%;
@@ -826,7 +825,3 @@ properly.
 	margin-right: auto !important;
 	text-align: center !important;
 }
-
-
-
-

@@ -10,7 +10,7 @@
         <title>{% if header.title %}{{ header.title }} | {% endif %}{{ site.title }}</title>
         {% include 'partials/metadata.html.twig' %}
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <link rel="icon" type="image/png" href="{{ theme_url }}/images/favicon.png" />
+        <link rel="icon" type="image/png" href="{{ theme_url }}/images/favicon.ico" />
 
          {% block stylesheets %}
                 {% do assets.addCss('theme://css/default.css') %}
@@ -41,11 +41,11 @@
         {% block body %}
             {% block content %}{% endblock %}
         {% endblock %}
-
+<!--
         {% block footer %}
              {% include 'partials/footer.html.twig' %}
         {% endblock %}
-
+-->
         {% block javascripts %}
             {% do assets.add('jquery',101) %}
             {% do assets.addJs('theme://js/jquery-migrate-1.2.1.min.js') %}

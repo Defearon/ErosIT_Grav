@@ -53,7 +53,7 @@ Megtekintés az interneten: ×
 [/gallery]
 
 <hr/>
-
+<!--
 ### BRABUSZ Kft. weboldal
 Megtekintés az interneten: [www.brabusz.hu](www.brabusz.hu)  
 
@@ -73,6 +73,7 @@ Megtekintés az interneten: [www.brabusz.hu](www.brabusz.hu)
 [/gallery]
 
 <hr/>
+-->
 
 ### Molnár Gábor Autósiskola képzési adminisztrációs program
 Az egyedi fejlesztésű, Windows Forms alapú program képes adott struktúrájú XML és PDF fájlok beolvasására. Mindemellett lehetővé teszi ezen adatok szerkesztését és ellenőrzését. A program elsődleges funkciója a tanulói adatok beolvasása, majd ezek birtokában meghatározott sablonok alapján szerződések, adatvédelmi nyilatkozatok, képzési nyilatkozatok, XML fájlok generálása, nyomtatása.

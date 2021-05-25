@@ -3,33 +3,39 @@ title: Szolgáltatásaink
 visible: false
 rows:
   - title: Számítógépek, laptopok javítása
-    description: Számítógépe, laptopja elromlott vagy nem az elvártaknak megfelelően működik? Forduljon hozzánk bizalommal és a szükséges javítási munkálatokat akár pár órán belül, az Ön otthonában is el tudjuk végezni.
+    description: Vállaljuk számítógép/laptop teljeskörű javítását/bővítését, akár az Ön otthonában, komplikáltabb javítás esetén a számítógépet/laptopot magunkkal visszük és a lehető leghamarabb visszaszállítjuk, és a helyszínen beüzemeljük! Igény esetén az eszközt kitakarítjuk és újra pasztázzuk. Vállaljuk egyedi számítógép összeszerelését, vagy egy meglévő számítógép átköltöztetését egy új gépházba! További részletekről érdeklődjön telefonon vagy e-mail-en!
     description_position: right
     image: szamitogepszerviz.jpeg
     name: szamitogepszerviz
   - title: Operációs rendszer telepítése
-    description: Keressen minket bizalommal eredeti operációs rendszer beszerzésével, telepítésével kapcsolatos kérdéseivel, illetve ezek elvégzésével.
+    description: Vállaljuk Windows operációs rendszer telepítését, frissítését, és karbantartását, az eredeti licensz kulcsot beszerezheti tőlünk, vagy akár Ön is hozhatja! Vállaljuk továbbá programok beszerzését és telepítését (Office, Teamviewer, stb.)! További részletekről érdeklődjön telefonon vagy e-mail-en!
     description_position: left
     image: oprendszertelepites.png
     name: oprendszertelepites
   - title: Vírusírtás
-    description: A vírusok és kártevők sok bosszúságot okozhatnak. Ezek kiírtása olykor összetett feladatot jelent, melyben szintén igénybe veheti szolgáltatásunkat.
+    description: Nem tud nyugodtan a reklám vírusoktól böngészni? Akár távolról is megtudjuk keresni a probléma okozóját és helyre tudjuk állítani a vírus előtti állapotra az Ön eszközét! Továbbá vállaljuk az eszköz teljes adatmentését, nagyobb baj esetén az adatok visszaállítását! További részletekről érdeklődjön telefonon vagy e-mail-en!
     description_position: right
     image: virusirtas.jpg
     name: virusirtas
   - title: Vezetékes és vezeték nélküli hálózatok
-    description: Vállaljuk vezetékes és vezeték nélküli hálózat építését, beállítását, ellenőrzését és karbantartását.
+    description: Vállaljuk vezetékes és vezeték nélküli hálózat építését és beállítását! Manapság gyakori probléma, hogy a szolgáltató a lehető legkönnyebb és leggyorsabb úton szeretné az internetet bevezetni a háztartásba, amennyiben Ön nem szeretne a kertje felett légkábelt, hívjon minket bizalommal és vállaljuk a kábelcsatornák kialakítását, továbbá a kábelezést! További részletekről érdeklődjön telefonon vagy e-mail-en!
     description_position: left
     image: wifi.jpg
     name: wifi
   - title: Általános rendszergazdai feladatok
-    description: Rendszergazdát igénylő feladataiben is szívesen állunk rendelkezésére.
+    description: Vállaljuk kisvállalkozások számára a rendszer kiépítését, felügyeletét, és karbantartását, továbbá nyomtatok beüzemelését, és egyéb rendszergazdai szerepre jutó felhasználói igények teljesítését.
     description_position: right
     image: rendszergazda.jpg
     name: rendszergazda
   - title: Informatikai oktatás, tanácsadás
-    description: Informatikai oktatással, tanácsadással kapcsolatban forduljon hozzánk bizalommal.
+    description: Vállaljuk idősek informatikai tanítását, továbbá tanácsadást számítógép/laptop vásárlása előtt az Ön igényeihez igazítva! További részletekről érdeklődjön telefonon vagy e-mail-en!
     description_position: left
     image: oktatas.jpg
     name: oktatas
+  - title: Webfejlesztés // Programozás
+    description: Vállaljuk saját weboldalának, vagy saját elképzelt Windows alkalmazásának fejlesztését és az ezekkel felmerülő tanácsadást. Bővebb információért kattintson a képre!
+    description_position: right
+    image: programozas.jpg
+    imagelink: /webfejlesztes
+    name: programozas
 ---
