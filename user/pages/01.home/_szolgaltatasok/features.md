@@ -12,8 +12,8 @@ rows:
     description_position: left
     image: oprendszertelepites.png
     name: oprendszertelepites
-  - title: Vírusírtás
-    description: Nem tud nyugodtan a reklám vírusoktól böngészni? Akár távolról is megtudjuk keresni a probléma okozóját és helyre tudjuk állítani a vírus előtti állapotra az Ön eszközét! Továbbá vállaljuk az eszköz teljes adatmentését, nagyobb baj esetén az adatok visszaállítását! További részletekről érdeklődjön telefonon vagy e-mail-en!
+  - title: Vírusirtás
+    description: Nem tud nyugodtan a reklámvírusoktól böngészni? Akár távolról is megtudjuk keresni a probléma okozóját és helyre tudjuk állítani a vírus előtti állapotra az Ön eszközét! Továbbá vállaljuk az eszköz teljes adatmentését, nagyobb baj esetén az adatok visszaállítását! További részletekről érdeklődjön telefonon vagy e-mail-en!
     description_position: right
     image: virusirtas.jpg
     name: virusirtas
@@ -23,7 +23,7 @@ rows:
     image: wifi.jpg
     name: wifi
   - title: Általános rendszergazdai feladatok
-    description: Vállaljuk kisvállalkozások számára a rendszer kiépítését, felügyeletét, és karbantartását, továbbá nyomtatok beüzemelését, és egyéb rendszergazdai szerepre jutó felhasználói igények teljesítését.
+    description: Vállaljuk kisvállalkozások számára a rendszer kiépítését, felügyeletét, és karbantartását, továbbá nyomtatók beüzemelését, és egyéb rendszergazdai szerepre jutó felhasználói igények teljesítését.
     description_position: right
     image: rendszergazda.jpg
     name: rendszergazda
@@ -33,7 +33,7 @@ rows:
     image: oktatas.jpg
     name: oktatas
   - title: Webfejlesztés // Programozás
-    description: Vállaljuk saját weboldalának, vagy saját elképzelt Windows alkalmazásának fejlesztését és az ezekkel felmerülő tanácsadást. Bővebb információért kattintson a képre!
+    description: Vállaljuk saját weboldalának, vagy saját elképzelt Windows alkalmazásának fejlesztését, és az ezekkel felmerülő tanácsadást. Bővebb információért kattintson a képre!
     description_position: right
     image: programozas.jpg
     imagelink: /webfejlesztes
