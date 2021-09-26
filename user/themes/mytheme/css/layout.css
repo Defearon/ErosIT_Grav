@@ -165,7 +165,7 @@ ul#nav li.current a { color: #fff; }
 
 #hero {
    padding-top: 66px;
-   background: #23292f url(img/hero-bg.png);
+  /* background: #23292f url(img/hero-bg.png);*/
    overflow: hidden;
 }
 

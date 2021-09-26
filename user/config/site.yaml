@@ -34,9 +34,6 @@ menu:
     text: Szolgáltatások
     link: '#features'
   -
-    text: Árak
-    link: '#pricing'
-  -
     text: Kapcsolat
     link: '#call-to-action'
 
